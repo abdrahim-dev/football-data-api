@@ -1,0 +1,218 @@
+[
+  {
+    "date":"2025-08-19T19:00:00Z",
+    "home_team_id":86,
+    "away_team_id":79,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"CA Osasuna",
+    "home_score":1,
+    "away_score":0
+  },
+  {
+    "date":"2025-08-24T19:30:00Z",
+    "home_team_id":1048,
+    "away_team_id":86,
+    "home_team_name":"Real Oviedo",
+    "away_team_name":"Real Madrid CF",
+    "home_score":0,
+    "away_score":3
+  },
+  {
+    "date":"2025-08-30T19:30:00Z",
+    "home_team_id":86,
+    "away_team_id":89,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"RCD Mallorca",
+    "home_score":2,
+    "away_score":1
+  },
+  {
+    "date":"2025-09-13T14:15:00Z",
+    "home_team_id":92,
+    "away_team_id":86,
+    "home_team_name":"Real Sociedad de F\u00fatbol",
+    "away_team_name":"Real Madrid CF",
+    "home_score":1,
+    "away_score":2
+  },
+  {
+    "date":"2025-09-16T19:00:00Z",
+    "home_team_id":86,
+    "away_team_id":516,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"Olympique de Marseille",
+    "home_score":2,
+    "away_score":1
+  },
+  {
+    "date":"2025-09-20T14:15:00Z",
+    "home_team_id":86,
+    "away_team_id":80,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"RCD Espanyol de Barcelona",
+    "home_score":2,
+    "away_score":0
+  },
+  {
+    "date":"2025-09-23T19:30:00Z",
+    "home_team_id":88,
+    "away_team_id":86,
+    "home_team_name":"Levante UD",
+    "away_team_name":"Real Madrid CF",
+    "home_score":1,
+    "away_score":4
+  },
+  {
+    "date":"2025-09-27T14:15:00Z",
+    "home_team_id":78,
+    "away_team_id":86,
+    "home_team_name":"Club Atl\u00e9tico de Madrid",
+    "away_team_name":"Real Madrid CF",
+    "home_score":5,
+    "away_score":2
+  },
+  {
+    "date":"2025-09-30T16:45:00Z",
+    "home_team_id":10601,
+    "away_team_id":86,
+    "home_team_name":"FK Kairat",
+    "away_team_name":"Real Madrid CF",
+    "home_score":0,
+    "away_score":5
+  },
+  {
+    "date":"2025-10-04T19:00:00Z",
+    "home_team_id":86,
+    "away_team_id":94,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"Villarreal CF",
+    "home_score":3,
+    "away_score":1
+  },
+  {
+    "date":"2025-10-19T19:00:00Z",
+    "home_team_id":82,
+    "away_team_id":86,
+    "home_team_name":"Getafe CF",
+    "away_team_name":"Real Madrid CF",
+    "home_score":0,
+    "away_score":1
+  },
+  {
+    "date":"2025-10-22T19:00:00Z",
+    "home_team_id":86,
+    "away_team_id":109,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"Juventus FC",
+    "home_score":1,
+    "away_score":0
+  },
+  {
+    "date":"2025-10-26T15:15:00Z",
+    "home_team_id":86,
+    "away_team_id":81,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"FC Barcelona",
+    "home_score":2,
+    "away_score":1
+  },
+  {
+    "date":"2025-11-01T20:00:00Z",
+    "home_team_id":86,
+    "away_team_id":95,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"Valencia CF",
+    "home_score":4,
+    "away_score":0
+  },
+  {
+    "date":"2025-11-04T20:00:00Z",
+    "home_team_id":64,
+    "away_team_id":86,
+    "home_team_name":"Liverpool FC",
+    "away_team_name":"Real Madrid CF",
+    "home_score":1,
+    "away_score":0
+  },
+  {
+    "date":"2025-11-09T15:15:00Z",
+    "home_team_id":87,
+    "away_team_id":86,
+    "home_team_name":"Rayo Vallecano de Madrid",
+    "away_team_name":"Real Madrid CF",
+    "home_score":0,
+    "away_score":0
+  },
+  {
+    "date":"2025-11-23T20:00:00Z",
+    "home_team_id":285,
+    "away_team_id":86,
+    "home_team_name":"Elche CF",
+    "away_team_name":"Real Madrid CF",
+    "home_score":2,
+    "away_score":2
+  },
+  {
+    "date":"2025-11-26T20:00:00Z",
+    "home_team_id":654,
+    "away_team_id":86,
+    "home_team_name":"PAE Olympiakos SFP",
+    "away_team_name":"Real Madrid CF",
+    "home_score":3,
+    "away_score":4
+  },
+  {
+    "date":"2025-11-30T20:00:00Z",
+    "home_team_id":298,
+    "away_team_id":86,
+    "home_team_name":"Girona FC",
+    "away_team_name":"Real Madrid CF",
+    "home_score":1,
+    "away_score":1
+  },
+  {
+    "date":"2025-12-03T18:00:00Z",
+    "home_team_id":77,
+    "away_team_id":86,
+    "home_team_name":"Athletic Club",
+    "away_team_name":"Real Madrid CF",
+    "home_score":0,
+    "away_score":3
+  },
+  {
+    "date":"2025-12-07T20:00:00Z",
+    "home_team_id":86,
+    "away_team_id":558,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"RC Celta de Vigo",
+    "home_score":0,
+    "away_score":2
+  },
+  {
+    "date":"2025-12-10T20:00:00Z",
+    "home_team_id":86,
+    "away_team_id":65,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"Manchester City FC",
+    "home_score":1,
+    "away_score":2
+  },
+  {
+    "date":"2025-12-14T20:00:00Z",
+    "home_team_id":263,
+    "away_team_id":86,
+    "home_team_name":"Deportivo Alav\u00e9s",
+    "away_team_name":"Real Madrid CF",
+    "home_score":1,
+    "away_score":2
+  },
+  {
+    "date":"2025-12-20T20:00:00Z",
+    "home_team_id":86,
+    "away_team_id":559,
+    "home_team_name":"Real Madrid CF",
+    "away_team_name":"Sevilla FC",
+    "home_score":2,
+    "away_score":0
+  }
+]

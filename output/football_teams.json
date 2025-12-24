@@ -1,0 +1,122 @@
+[
+  {
+    "id":77,
+    "name":"Athletic Club",
+    "short_name":"Athletic",
+    "tla":"ATH"
+  },
+  {
+    "id":78,
+    "name":"Club Atl\u00e9tico de Madrid",
+    "short_name":"Atleti",
+    "tla":"ATL"
+  },
+  {
+    "id":79,
+    "name":"CA Osasuna",
+    "short_name":"Osasuna",
+    "tla":"OSA"
+  },
+  {
+    "id":80,
+    "name":"RCD Espanyol de Barcelona",
+    "short_name":"Espanyol",
+    "tla":"ESP"
+  },
+  {
+    "id":81,
+    "name":"FC Barcelona",
+    "short_name":"Bar\u00e7a",
+    "tla":"FCB"
+  },
+  {
+    "id":82,
+    "name":"Getafe CF",
+    "short_name":"Getafe",
+    "tla":"GET"
+  },
+  {
+    "id":86,
+    "name":"Real Madrid CF",
+    "short_name":"Real Madrid",
+    "tla":"RMA"
+  },
+  {
+    "id":87,
+    "name":"Rayo Vallecano de Madrid",
+    "short_name":"Rayo Vallecano",
+    "tla":"RAY"
+  },
+  {
+    "id":88,
+    "name":"Levante UD",
+    "short_name":"Levante",
+    "tla":"LEV"
+  },
+  {
+    "id":89,
+    "name":"RCD Mallorca",
+    "short_name":"Mallorca",
+    "tla":"MAL"
+  },
+  {
+    "id":90,
+    "name":"Real Betis Balompi\u00e9",
+    "short_name":"Real Betis",
+    "tla":"BET"
+  },
+  {
+    "id":92,
+    "name":"Real Sociedad de F\u00fatbol",
+    "short_name":"Real Sociedad",
+    "tla":"RSO"
+  },
+  {
+    "id":94,
+    "name":"Villarreal CF",
+    "short_name":"Villarreal",
+    "tla":"VIL"
+  },
+  {
+    "id":95,
+    "name":"Valencia CF",
+    "short_name":"Valencia",
+    "tla":"VAL"
+  },
+  {
+    "id":263,
+    "name":"Deportivo Alav\u00e9s",
+    "short_name":"Alav\u00e9s",
+    "tla":"ALA"
+  },
+  {
+    "id":285,
+    "name":"Elche CF",
+    "short_name":"Elche",
+    "tla":"ELC"
+  },
+  {
+    "id":298,
+    "name":"Girona FC",
+    "short_name":"Girona",
+    "tla":"GIR"
+  },
+  {
+    "id":558,
+    "name":"RC Celta de Vigo",
+    "short_name":"Celta",
+    "tla":"CEL"
+  },
+  {
+    "id":559,
+    "name":"Sevilla FC",
+    "short_name":"Sevilla FC",
+    "tla":"SEV"
+  },
+  {
+    "id":1048,
+    "name":"Real Oviedo",
+    "short_name":"Real Oviedo",
+    "tla":"OVI"
+  }
+]
