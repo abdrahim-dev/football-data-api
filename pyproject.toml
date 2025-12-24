@@ -1,0 +1,12 @@
+[project]
+name = "football-data-api"
+version = "0.1.0"
+description = "This is a project which gets some football Data with API integration, data export and data visualization."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+]
