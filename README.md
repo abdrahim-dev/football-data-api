@@ -11,6 +11,11 @@ A professional, modular Python application that fetches, processes, and visualiz
 * **Dual-Format Export**: Automatically saves all processed data into both `CSV` (for Excel) and `JSON` (for web/apps) formats.
 * **Visual Insights**: Generates high-quality `.png` pie charts of result distributions using Matplotlib.
 * **Clean Architecture**: Built with a "Separation of Concerns" design, making it easy to add new features without breaking existing ones.
+### 🌐 Web API Pro (`app.py`)
+* **FastAPI Framework**: High-performance REST endpoints with automatic Swagger documentation.
+* **Fuzzy Search**: Intelligent team discovery—finds "Real Madrid" even if you only type "Madrid".
+* **Head-to-Head (H2H)**: A dedicated engine that compares two rival teams and calculates historical dominance.
+* **Interactive Docs**: Built-in UI to test the API directly from your browser.
 
 ---
 
@@ -35,7 +40,8 @@ Ensure you have at least **Python 3.14** installed on your system.
 ### 2. Install Dependencies
 Run the following command to install all necessary libraries:
 
-pip install requests pandas matplotlib python-dotenv
+pip install requests pandas matplotlib python-dotenv uvicorn fastapi
+or with uv: uv add requests pandas matplotlib python-dotenv uvicorn fastapi
 
 ### 3. Project structure:
 football-data-api/
@@ -46,4 +52,4 @@ football-data-api/
 ├── processor.py        # Logik & Berechnungen
 ├── exporter.py         # Speichern von Dateien (CSV, JSON)
 ├── visualizer.py       # Diagramme und Plots
-└── utils.py            # Hilfsfunktionen (z.B. User-Input)
+└── app.py              # api application
