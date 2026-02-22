@@ -46,10 +46,10 @@ or with uv: uv add requests pandas matplotlib python-dotenv uvicorn fastapi
 ### 3. Project structure:
 football-data-api/
 │
-├── .env                # API Keys
-├── main.py             # Der "Dirigent" (startet das Programm)
-├── api_client.py       # Alles rund um HTTP-Anfragen
-├── processor.py        # Logik & Berechnungen
-├── exporter.py         # Speichern von Dateien (CSV, JSON)
-├── visualizer.py       # Diagramme und Plots
-└── app.py              # api application
+├── .env                # API Keys (Excluded from version control)
+├── main.py             # The "Orchestrator" (Application entry point)
+├── api_client.py       # Handles all HTTP requests and API communication
+├── processor.py        # Core logic & data calculations
+├── exporter.py         # File persistence (CSV, JSON storage)
+├── visualizer.py       # Data visualization, charts, and plots
+└── app.py              # Web API application (FastAPI/Flask)
